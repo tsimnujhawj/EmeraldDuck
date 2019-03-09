@@ -1,0 +1,2 @@
+# EmeraldDuck
+React Native calculator
